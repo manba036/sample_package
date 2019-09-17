@@ -6,6 +6,12 @@
 pip install git+https://github.com/manba036/sample_package
 ```
 
+## upgrade
+
+```bash
+pip install git+https://github.com/manba036/sample_package -U
+```
+
 ## import
 
 ```python

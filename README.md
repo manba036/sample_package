@@ -6,13 +6,19 @@
 pip install git+https://github.com/manba036/sample_package
 ```
 
+## install a specific version
+
+```bash
+pip install git+https://github.com/manba036/sample_package@0.1
+```
+
 ## upgrade
 
 ```bash
 pip install git+https://github.com/manba036/sample_package -U
 ```
 
-## import
+## usage
 
 ```python
 import sample_package
